@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES_Sqlite_Wisej", "EntitySpaces_SqliteApp\ES_Sqlite_Wisej.csproj", "{AA55EC24-4311-4F49-A658-B0CC41D39051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA55EC24-4311-4F49-A658-B0CC41D39051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA55EC24-4311-4F49-A658-B0CC41D39051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA55EC24-4311-4F49-A658-B0CC41D39051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA55EC24-4311-4F49-A658-B0CC41D39051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2B9022-2C36-4323-9AC6-0FC6E165A52D}
+	EndGlobalSection
+EndGlobal
